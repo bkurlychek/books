@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="brian-kurlychek-1.wireless.usm.maine.edu" name="books.BooksControllerTests" tests="1" time="1.402" timestamp="2012-02-07T18:57:05">
+<testsuite errors="0" failures="0" hostname="brian-kurlychek-1.wireless.usm.maine.edu" name="books.BooksControllerTests" tests="1" time="1.438" timestamp="2012-02-07T19:17:07">
   <properties />
-  <testcase classname="books.BooksControllerTests" name="testSomething" time="1.336" />
+  <testcase classname="books.BooksControllerTests" name="testSomething" time="1.323" />
   <system-out><![CDATA[--Output from testSomething--
 ]]></system-out>
   <system-err><![CDATA[--Output from testSomething--

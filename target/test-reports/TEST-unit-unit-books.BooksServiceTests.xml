@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="brian-kurlychek-1.wireless.usm.maine.edu" name="books.BooksServiceTests" tests="1" time="0.228" timestamp="2012-02-07T18:57:06">
+<testsuite errors="0" failures="0" hostname="brian-kurlychek-1.wireless.usm.maine.edu" name="books.BooksServiceTests" tests="1" time="0.264" timestamp="2012-02-07T19:17:09">
   <properties />
   <testcase classname="books.BooksServiceTests" name="testSomething" time="0.031" />
   <system-out><![CDATA[--Output from testSomething--

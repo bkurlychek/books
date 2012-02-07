@@ -1,10 +1,21 @@
 Testsuite: books.BooksServiceIntegrationTests
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.189 sec
+Tests run: 3, Failures: 1, Errors: 0, Time elapsed: 0.393 sec
 ------------- Standard Output ---------------
 --Output from testStaticBooks--
+--Output from tryAnotherTest--
+--Output from tryAThirdTest--
 ------------- ---------------- ---------------
 ------------- Standard Error -----------------
 --Output from testStaticBooks--
+--Output from tryAnotherTest--
+--Output from tryAThirdTest--
 ------------- ---------------- ---------------
 
-Testcase: testStaticBooks took 0.189 sec
+Testcase: testStaticBooks took 0.169 sec
+Testcase: tryAnotherTest took 0.099 sec
+Testcase: tryAThirdTest took 0.122 sec
+	FAILED
+junit.framework.AssertionFailedError: expected:<1> but was:<0>
+junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: expected:<1> but was:<0>
+	at books.BooksServiceIntegrationTests.tryAThirdTest(BooksServiceIntegrationTests.groovy:30)
+

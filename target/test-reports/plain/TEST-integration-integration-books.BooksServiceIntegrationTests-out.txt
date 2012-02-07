@@ -1,1 +1,3 @@
 --Output from testStaticBooks--
+--Output from tryAnotherTest--
+--Output from tryAThirdTest--

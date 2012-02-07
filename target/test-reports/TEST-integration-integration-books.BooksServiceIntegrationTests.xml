@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="brian-kurlychek-1.wireless.usm.maine.edu" name="books.BooksServiceIntegrationTests" tests="1" time="0.189" timestamp="2012-02-07T18:57:14">
+<testsuite errors="0" failures="1" hostname="brian-kurlychek-1.wireless.usm.maine.edu" name="books.BooksServiceIntegrationTests" tests="3" time="0.393" timestamp="2012-02-07T19:17:18">
   <properties />
-  <testcase classname="books.BooksServiceIntegrationTests" name="testStaticBooks" time="0.189" />
+  <testcase classname="books.BooksServiceIntegrationTests" name="testStaticBooks" time="0.169" />
+  <testcase classname="books.BooksServiceIntegrationTests" name="tryAnotherTest" time="0.099" />
+  <testcase classname="books.BooksServiceIntegrationTests" name="tryAThirdTest" time="0.123">
+    <failure message="junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: expected:&lt;1&gt; but was:&lt;0&gt;
+	at books.BooksServiceIntegrationTests.tryAThirdTest(BooksServiceIntegrationTests.groovy:30)
+</failure>
+  </testcase>
   <system-out><![CDATA[--Output from testStaticBooks--
+--Output from tryAnotherTest--
+--Output from tryAThirdTest--
 ]]></system-out>
   <system-err><![CDATA[--Output from testStaticBooks--
+--Output from tryAnotherTest--
+--Output from tryAThirdTest--
 ]]></system-err>
 </testsuite>

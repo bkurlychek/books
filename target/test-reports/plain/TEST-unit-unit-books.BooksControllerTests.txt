@@ -1,5 +1,5 @@
 Testsuite: books.BooksControllerTests
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.402 sec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.438 sec
 ------------- Standard Output ---------------
 --Output from testSomething--
 ------------- ---------------- ---------------
@@ -7,4 +7,4 @@ Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.402 sec
 --Output from testSomething--
 ------------- ---------------- ---------------
 
-Testcase: testSomething took 1.336 sec
+Testcase: testSomething took 1.323 sec
