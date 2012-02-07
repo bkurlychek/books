@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="0" hostname="batman.cs.usm.maine.edu" id="0" name="BooksServiceIntegrationTests" package="books" tests="1" time="0.165" timestamp="2012-01-28T01:38:22">
+  <testsuite errors="0" failures="0" hostname="brian-kurlychek-1.wireless.usm.maine.edu" id="0" name="BooksServiceIntegrationTests" package="books" tests="1" time="0.189" timestamp="2012-02-07T18:57:14">
       <properties />
 
-      <testcase classname="books.BooksServiceIntegrationTests" name="testStaticBooks" time="0.165" />
+      <testcase classname="books.BooksServiceIntegrationTests" name="testStaticBooks" time="0.189" />
 
       <system-out><![CDATA[--Output from testStaticBooks--
 ]]></system-out>
@@ -12,10 +12,10 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="batman.cs.usm.maine.edu" id="1" name="BooksControllerTests" package="books" tests="1" time="0.96" timestamp="2012-01-28T01:38:14">
+  <testsuite errors="0" failures="0" hostname="brian-kurlychek-1.wireless.usm.maine.edu" id="1" name="BooksControllerTests" package="books" tests="1" time="1.402" timestamp="2012-02-07T18:57:05">
       <properties />
 
-      <testcase classname="books.BooksControllerTests" name="testSomething" time="0.955" />
+      <testcase classname="books.BooksControllerTests" name="testSomething" time="1.336" />
 
       <system-out><![CDATA[--Output from testSomething--
 ]]></system-out>
@@ -24,10 +24,10 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="batman.cs.usm.maine.edu" id="2" name="BooksServiceTests" package="books" tests="1" time="0.243" timestamp="2012-01-28T01:38:13">
+  <testsuite errors="0" failures="0" hostname="brian-kurlychek-1.wireless.usm.maine.edu" id="2" name="BooksServiceTests" package="books" tests="1" time="0.228" timestamp="2012-02-07T18:57:06">
       <properties />
 
-      <testcase classname="books.BooksServiceTests" name="testSomething" time="0.081" />
+      <testcase classname="books.BooksServiceTests" name="testSomething" time="0.031" />
 
       <system-out><![CDATA[--Output from testSomething--
 ]]></system-out>
@@ -36,10 +36,10 @@
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="batman.cs.usm.maine.edu" id="3" name="BooksTests" package="books" tests="1" time="0.723" timestamp="2012-01-28T01:38:13">
+  <testsuite errors="0" failures="0" hostname="brian-kurlychek-1.wireless.usm.maine.edu" id="3" name="BooksTests" package="books" tests="1" time="0.341" timestamp="2012-02-07T18:57:06">
       <properties />
 
-      <testcase classname="books.BooksTests" name="testSomething" time="0.431" />
+      <testcase classname="books.BooksTests" name="testSomething" time="0.337" />
 
       <system-out><![CDATA[--Output from testSomething--
 ]]></system-out>
